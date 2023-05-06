@@ -1,16 +1,14 @@
 # PROJETO INTEGRADOR - GRUPO 6
 
-1. Clone ou faça o download do projeto, descompacte a pasta na unidade C: do sistema operacional Windows.
+1. Faça o download do projeto completo utilizando o link abaixo.
 
-2. Baixe as dependências do projeto dentro da pasta do projeto:
+   https://drive.google.com/drive/folders/14HYh-Xrp3hrJlDRU7EmOFww3NK_bf1AI
 
-   https://drive.google.com/file/d/15EDOB6pocf_xlI6Wi6CtzIYs0nISIgRI/view?usp=share_link
+2. Recorte o arquivo e cole na unidade C: do sistema operacional Windows
 
-   
+3. Extraia o arquivo colado do projeto na unidade C:
 
-3. Extraia as dependências do projeto no interior da pasta do projeto.
-
-4. Instale todas as dependências e configure seguindo a ordem enumerada:
+4. Abra a pasta do projeto e extraia o arquivo de dependencia no interior da pasta, logo em seguida instale os arquivos seguindo a ordem enumerada:
 
 ```cmd
 1 - node-v18.16.0-x64.msi
@@ -25,17 +23,8 @@
 
 - Atenção: Em caso de dúvida de como fazer a instalação do projeto, assista a vídeo aula de como fazer a instalação: 
 
+https://drive.google.com/file/d/1HIGgKDiefpAwSnPonlKhr_tyEcaW2xN7/view?usp=share_link
 
+OBS: É necessário ter conexão com a internet e usar a mesma rede para que o aplicativo funcione corretamente, o mesmo não foi publicado na playstore e nem na applestore.
 
-OBS: É necessário ter conexão com a internet e usar a mesma rede para que o aplicativo funcione corretamente.
-
-
-
-
-
-
-
-Link do Download completo com as dependências:
-
-https://drive.google.com/drive/folders/14HYh-Xrp3hrJlDRU7EmOFww3NK_bf1AI
 
