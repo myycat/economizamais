@@ -1,6 +1,6 @@
 # PROJETO INTEGRADOR - GRUPO 6
 
-1) Descompacte a pasta do projeto na unidade C: do sistema operacional Windows
+1) Clone o projeto e descompacte a pasta do projeto na unidade C: do sistema operacional Windows
 2) Baixe as dependências do projeto e extraia as mesmas dentro da pasta do projeto:
    https://drive.google.com/drive/folders/14HYh-Xrp3hrJlDRU7EmOFww3NK_bf1AI
 3) Extraia as dependências do projeto no interior da pasta do projeto.
