@@ -2,7 +2,7 @@
 
 1) Clone o projeto e descompacte a pasta do projeto na unidade C: do sistema operacional Windows
 2) Baixe as dependências do projeto e extraia as mesmas dentro da pasta do projeto:
-   https://drive.google.com/drive/folders/14HYh-Xrp3hrJlDRU7EmOFww3NK_bf1AI
+   https://drive.google.com/file/d/15EDOB6pocf_xlI6Wi6CtzIYs0nISIgRI/view?usp=share_link
 3) Extraia as dependências do projeto no interior da pasta do projeto.
 4) Instale todas as dependências e configure seguindo a ordem enumerada:
 ```cmd
