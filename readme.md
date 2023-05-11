@@ -20,6 +20,8 @@
 7 - INSTALAR NO CELULAR O EXPO GO
 8 - CONECTAR CELULAR
 ```
+BANCO DE DADOS
+O Banco de dados está localizado na pasta backend-financas com o nome de dev.db
 
 - Atenção: Em caso de dúvida de como fazer a instalação do projeto, assista a vídeo aula de como fazer a instalação: 
 
